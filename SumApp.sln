@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumApp", "SumApp\SumApp.csproj", "{0964958A-BC42-46FA-A2F7-AF1BAC1061F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSumApp", "TestSumApp\TestSumApp.csproj", "{F1724E4A-681F-4C71-AA1E-6DC353765FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0964958A-BC42-46FA-A2F7-AF1BAC1061F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0964958A-BC42-46FA-A2F7-AF1BAC1061F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0964958A-BC42-46FA-A2F7-AF1BAC1061F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0964958A-BC42-46FA-A2F7-AF1BAC1061F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1724E4A-681F-4C71-AA1E-6DC353765FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1724E4A-681F-4C71-AA1E-6DC353765FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1724E4A-681F-4C71-AA1E-6DC353765FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1724E4A-681F-4C71-AA1E-6DC353765FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E04EBD2D-BCD9-48A2-AAEE-E1367C03E2AD}
+	EndGlobalSection
+EndGlobal
